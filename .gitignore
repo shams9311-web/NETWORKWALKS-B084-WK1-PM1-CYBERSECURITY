@@ -1,0 +1,10 @@
+﻿*.ova
+*.ovf
+*.vdi
+*.vmdk
+*.vhd
+*.vhdx
+*.iso
+*.pem
+*.key
+.env
